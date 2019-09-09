@@ -1,5 +1,5 @@
 # MBTI-classifier
-Performance comparison of a MultiLayer Perceptron (feed-forward neural net) for personality type indicator classification, when applying oversampling (SMOTE) and undersampling (NearMiss) techniques.
+Performance comparison of a MultiLayer Perceptron (feed-forward neural net) for personality type indicator classification, based on tweeter feed data, when applying oversampling (SMOTE) and undersampling (NearMiss) techniques.
 
 ### The comparison includes:
 1. The effect of feature engineering, namely counting occurrences, sentiment analysis and part of speech tags (
